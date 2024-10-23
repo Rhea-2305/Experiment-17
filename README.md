@@ -10,3 +10,7 @@ A linked list is a type of linear data structure that stores elements in non-con
 ![image](https://github.com/user-attachments/assets/9df5cd76-9235-49f2-9df0-3709fed6feed)
 
 2)
+![image](https://github.com/user-attachments/assets/5ab1bd4c-01f1-424f-8245-90fd09147e1c)
+
+## Conclusion 
+We studied about the understanding of linked lists and their implementation.
